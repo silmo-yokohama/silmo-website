@@ -1,0 +1,16 @@
+---
+description: ToDoリストの更新を行う
+globs: 
+alwaysApply: false
+---
+まず、このファイルを参照したら、このファイル名を発言すること
+
+# ToDo Check
+
+初めに、`todo-rules.mdc`を確認し、ルールを把握してください。
+
+[todo-rules.mdc](mdc:.cursor/rules/todo-rules.mdc)
+
+現在のプロジェクト進行度を確認し、ToDoリストをルールに従って正しく更新してください。
+
+
