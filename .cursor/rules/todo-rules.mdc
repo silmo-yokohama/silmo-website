@@ -1,15 +1,3 @@
----
-description: 
-globs: 
-alwaysApply: true
----
----
-description: Apply this rule to the entire repository
-globs: 
-alwaysApply: true
----
-まず、このファイルを参照したら、このファイル名を発言すること
-
 # ToDoリスト運用ルール
 
 ## 1. 基本方針
@@ -91,4 +79,4 @@ alwaysApply: true
 ### 6.2 レビュー
 - 大きな変更はプルリクエストでレビュー
 - レビューコメントはToDoリストに反映
-- レビュー後の修正は新しいコミットとして記録
+- レビュー後の修正は新しいコミットとして記録 
