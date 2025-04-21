@@ -3,11 +3,6 @@ description:
 globs: 
 alwaysApply: true
 ---
----
-description: Apply this rule to the entire repository
-globs: 
-alwaysApply: true
----
 まず、このファイルを参照したら、このファイル名を発言すること
 
 # 設計書管理指示
@@ -18,7 +13,7 @@ alwaysApply: true
 
 ## 設計書の場所と読み込み指示
 
-AIは以下の設計書を必ず熟読し、全体の設計意図を把握します：
+以下の設計書を必ず熟読し、全体の設計意図を把握します：
 
 - `docs/design/01.要件定義/`：プロジェクトの基本要件と目標
 - `docs/design/02.技術スタック/`：使用する技術とツール
